@@ -71,3 +71,18 @@ body {
 
 .modal-footer {
   background: white; }
+
+
+  .card {
+    position: relative;
+    background:#fff;
+    border-radius: 20px;
+
+  }
+  .card img {
+    border-radius: 20px;
+  }
+
+  .card-text {
+    font-size: 15px;
+  }
